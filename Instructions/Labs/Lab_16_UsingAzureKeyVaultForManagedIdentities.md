@@ -135,7 +135,8 @@ When you use managed identities for Azure resources, your code can get access to
    > Replace the placeholder values:
    > - `<key-vault-name>`: Get from the Key Vault **Overview** page in the Azure portal.
    > - `<secret-name>`: Get from the **Secrets** page in the Key Vault.
-  
+
+
     ```powershell
     Invoke-RestMethod -Uri https://<key-vault-name>.vault.azure.net/secrets/<secret-name>?api-version=2016-10-01 -Method GET -Headers @{Authorization="Bearer $KeyVaultToken"}
     ```
