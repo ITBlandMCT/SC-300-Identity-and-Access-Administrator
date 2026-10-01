@@ -55,7 +55,7 @@ Next let's examine how to set up Conditional Access policy rules that would enfo
 
 1. Switch back to the Microsoft Entra admin center, in the left navigation, under **Entra ID**, select **Conditional Access**.
 
-1. On the menu, Select **+ New policy**.
+1. On the menu, Select **+ Create new policy**.
 
     ![Screenshot highlighting the New Policy button in the Microsoft Entra admin center.](./media/lp2-mod1-azure-ad-conditional-access-policy.png)
 
