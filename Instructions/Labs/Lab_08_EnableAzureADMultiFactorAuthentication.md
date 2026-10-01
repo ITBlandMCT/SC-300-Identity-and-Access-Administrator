@@ -73,7 +73,7 @@ Next let's examine how to set up Conditional Access policy rules that would enfo
 
 1. In the **Include** tab, select **Select resources**, then in the **Select specific resources** select **None**.
 
-1. In the **Resources** pane, search for **Office 365**, then select it.
+1. In the **Resources** pane, search for **Office 365**, then select it. At the bottom of the page select **Select**.
 
     - **Reminder** - in a previous lab we gave Delia Dennis an Office 365 license and logged into ensure it worked.
 
