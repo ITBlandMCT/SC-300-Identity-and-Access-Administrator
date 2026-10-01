@@ -163,7 +163,7 @@ Finally, let's look at how to configure MFA for user accounts. This is another w
 
 #### Task 2 -- Try logging in as Adele
 
-1. If you want to see another example of MFA login process, you can try to log in a Adele.
+1. If you want to see another example of MFA login process, you can try to log in as Adele (`AdeleV@<your domain address>`).
 
 ### Exercise summary
 
