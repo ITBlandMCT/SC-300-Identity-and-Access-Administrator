@@ -155,6 +155,8 @@ Finally, let's look at how to configure MFA for user accounts. This is another w
 
 1. Notice that Adele now has **Enabled** as her MFA status.
 
+    > **Note:** If the changes are not displayed, refresh the page to view the updated information.
+
 1. You can select **Service settings** to see the MFA setting screen, seen earlier in the lab.
 
 1. Close the MFA setting tab.
