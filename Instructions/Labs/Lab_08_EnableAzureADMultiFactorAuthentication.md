@@ -157,7 +157,7 @@ Finally, let's look at how to configure MFA for user accounts. This is another w
 
     > **Note:** If the changes are not displayed, refresh the page to view the updated information.
 
-1. You can select **Service settings** to see the MFA setting screen, seen earlier in the lab.
+1. You can select **Service settings** to view the MFA setting screen.
 
 1. Close the MFA setting tab.
 
